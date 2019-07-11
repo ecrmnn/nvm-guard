@@ -1,6 +1,6 @@
 {
   "name": "nvm-guard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enforce correct .nvmrc version when running npm scripts",
   "bin": {
     "nvm-guard": "dist/index.js"
