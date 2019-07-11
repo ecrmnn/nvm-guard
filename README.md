@@ -1,7 +1,6 @@
 # nvm-guard
 > Enforce correct .nvmrc version when running npm scripts
 
-[![Travis](https://img.shields.io/travis/ecrmnn/nvm-guard.svg?style=flat-square)](https://travis-ci.org/ecrmnn/nvm-guard.svg?branch=master)
 [![npm version](https://img.shields.io/npm/v/nvm-guard.svg?style=flat-square)](http://badge.fury.io/js/nvm-guard)
 [![npm downloads](https://img.shields.io/npm/dm/nvm-guard.svg?style=flat-square)](http://badge.fury.io/js/nvm-guard)
 [![npm license](https://img.shields.io/npm/l/nvm-guard.svg?style=flat-square)](http://badge.fury.io/js/nvm-guard)
