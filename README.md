@@ -28,10 +28,6 @@ In your `package.json` add `nvm-guard` as a pre-hook or before the scripts you w
     // Will be called before npm test
     // npm docs: https://docs.npmjs.com/misc/scripts
     "pretest": "nvm-guard",
-
-    // Will be called before npm install
-    // npm docs: https://docs.npmjs.com/misc/scripts
-    "preinstall": "nvm-guard"
   }
 }
 ```
